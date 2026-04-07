@@ -1,0 +1,7 @@
+{
+  "@@locale": "en",
+  "appTitle": "My App",
+  "welcome": "Welcome",
+  "login": "Login",
+  "profile_updated": "Profile updated successfully"
+}
